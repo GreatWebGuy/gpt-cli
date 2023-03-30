@@ -15,10 +15,10 @@ GPT cli is a simple command-line interface (CLI) tool that interacts with OpenAI
 git clone https://github.com/greatwebguy/gpt-cli.git
 ```
 
-2. Navigate to the `askgpt` directory:
+2. Navigate to the `gpt-cli` directory:
 
 ```
-cd askgpt
+cd gpt-cli
 ```
 
 3. Open the `askgpt.go` file and replace `your_api_key_here` with your actual OpenAI API key.
