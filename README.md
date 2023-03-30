@@ -1,4 +1,4 @@
-# GPT ClI
+# GPT cli
 
 GPT cli is a simple command-line interface (CLI) tool that interacts with OpenAI's GPT models (like GPT-3) using their API. This CLI tool allows you to send a prompt to the API and receive generated text as output in your terminal.
 
